@@ -10,7 +10,7 @@
 # !themes/**
 
 # Track your custom plugin(s)
-!plugins/your-plugin-name/**
+!plugins/**
 
 # Ignore media uploads and cache
 uploads/
