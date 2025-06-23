@@ -1,0 +1,27 @@
+# Ignore everything by default
+*
+
+# But track this file
+!.gitignore
+
+# Track your custom theme
+!themes/twentytwentyfive/**
+# OR if you want to allow all themes, use:
+# !themes/**
+
+# Track your custom plugin(s)
+!plugins/your-plugin-name/**
+
+# Ignore media uploads and cache
+uploads/
+cache/
+upgrade/
+mu-plugins/
+languages/
+
+# Ignore system/junk files
+*.log
+*.sql
+*.zip
+.DS_Store
+Thumbs.db
