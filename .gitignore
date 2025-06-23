@@ -9,7 +9,8 @@
 # OR if you want to allow all themes, use:
 # !themes/**
 
-# Track your custom plugin(s)
+# Track all custom plugins
+!plugins/
 !plugins/**
 
 # Ignore media uploads and cache
